@@ -28,3 +28,7 @@ This is backend of Kyiv Subway project
 Ссылка на сайт:
 
 http://51.250.14.154
+
+Отдельно бэкенд размещается по этому адресу:
+
+http://51.250.71.220/api/posts/
