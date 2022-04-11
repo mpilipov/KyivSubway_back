@@ -1,8 +1,9 @@
 # KyivSubway_back
 This is backend of Kyiv Subway project
 
+
 Бэкенд сайта написан на Django Rest Framework
-Фронтенд сайта написан на фреймворке NuxtJS
+Фронтенд сайта написан на фреймворке NuxtJS - реализован принцип SPA - приложения
 
 Реализован следующий функционал:
 
